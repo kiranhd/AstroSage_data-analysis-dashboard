@@ -1,6 +1,6 @@
 # AstroSage Data Analysis (Interactive Dashboard creation using MS Excel)
 
-![AstroSage logo]()
+![AstroSage logo](https://github.com/kiranhd/AstroSage_data-analysis-dashboard/blob/main/AstroSage_logo.jpg)
 ## Overview
 This project presents an analysis of AstroSage's platform data, including user activity across calls and chats, user behavior (one-time vs. repeat users), and guru performance (based on ratings). The goal is to derive insights to improve operational efficiency, customer satisfaction, and profitability.
 
