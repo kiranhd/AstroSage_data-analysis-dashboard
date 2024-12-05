@@ -15,7 +15,7 @@ This project presents an analysis of AstroSage's platform data, including user a
 * A close balance exists between one-time (51.1%) and repeat users (48.9%), signaling opportunities for user retention improvements.
 * Top-performing gurus receive significantly higher ratings, with Tarot M. and Astro P. standing out with the highest average ratings (7.50).
 ## Dashboard
-![dashboaerd]()
+![dashboaerd](https://github.com/kiranhd/AstroSage_data-analysis-dashboard/blob/main/AstroSage_Dashboard.png)
 ## Recommendations
 1. Improve Call Center Operations: Optimize technology to distribute call volumes more uniformly, enhancing call success rates.
 2. Enhance Chat Efficiency: Implement targeted training and support for chat agents to reduce failed and incomplete interactions.
